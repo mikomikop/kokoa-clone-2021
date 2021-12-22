@@ -1,4 +1,6 @@
 :root {
   --yellow: #f3dc00;
   /* --yellow: #ff0000; */
+
+  --content-padding: 25px;
 }

@@ -4,21 +4,21 @@
 @import "variables.css";
 
 /* Components */
-@import "Component/status-bar.css";
-@import "Component/nav-bar.css";
+@import "Components/status-bar.css";
+@import "Components/nav-bar.css";
+@import "Components/screen-header.css";
+@import "Components/user-component.css";
 
 /* Screens */
 @import "Screens/login.css";
+@import "Screens/friends.css";
 
 body {
   /* font-family: "Noto Sans KR", sans-serif; */
+  color: #2e363e;
   font-family: "Open Sans", sans-serif;
   height: 1000vh;
   /* display: flex; */
   /* flex-direction: column; */
   /* justify-content: space-evenly; */
-}
-
-.friends-content {
-  padding-top: 43px;
 }
