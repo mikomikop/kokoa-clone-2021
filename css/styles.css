@@ -5,6 +5,7 @@
 
 /* Components */
 @import "Component/status-bar.css";
+@import "Component/nav-bar.css";
 
 /* Screens */
 @import "Screens/login.css";
@@ -12,4 +13,12 @@
 body {
   /* font-family: "Noto Sans KR", sans-serif; */
   font-family: "Open Sans", sans-serif;
+  height: 1000vh;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: space-evenly; */
+}
+
+.friends-content {
+  padding-top: 43px;
 }
