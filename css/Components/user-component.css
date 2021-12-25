@@ -1,7 +1,3 @@
-.friends-screen {
-  padding: var(--content-padding);
-}
-
 .user-component {
   display: flex;
   justify-content: space-between;

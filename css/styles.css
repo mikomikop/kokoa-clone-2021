@@ -12,6 +12,7 @@
 /* Screens */
 @import "Screens/login.css";
 @import "Screens/friends.css";
+@import "Screens/chats.css";
 
 body {
   /* font-family: "Noto Sans KR", sans-serif; */
