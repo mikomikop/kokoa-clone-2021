@@ -3,5 +3,8 @@
   /* --yellow: #ff0000; */
 
   --content-padding: 25px;
+  --header-font-size: 32px;
   --gray: rgba(0, 0, 0, 0.3);
+
+  --content-separator-border: 1px solid rgba(0, 0, 0, 0.2);
 }
